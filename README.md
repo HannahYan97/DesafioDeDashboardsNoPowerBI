@@ -6,5 +6,5 @@ O desafio consiste em criar 3 relatórios baseados nos dados em um Banco de Dado
 2º Dashboard: É um Relatório de Vendas Considerando Países e Lucro
 3º Dashboard: É um Distribuição de Lucro, Vendas e Unidades vendidas por país e segmento
 
-[📄 Veja os Dashboards prontos](./Relatório Financials.pdf)
+📄 Veja os Dashboards prontos: https://github.com/HannahYan97/DesafioDeDashboardsNoPowerBI/blob/main/Relat%C3%B3rio%20Financials.pdf
 
